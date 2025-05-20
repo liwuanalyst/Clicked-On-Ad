@@ -1,6 +1,25 @@
 # Clicked On Ad Analytics
-•	Validate and prepare datasets by applying feature engineering techniques, such as handling outliers, segmenting features, and extracting date-related information, while employing problem solving skills to interpret diverse data sets and deliver actionable insights.
 
-•	Analyze data trends by creating line charts in Python to generate insights for business intelligence, and develop machine learning models using Logistic Regression, Random Forest, and XGBoost, with hyperparameter tuning to identify key drivers of engagement and inform strategic decisions.
+A Python-based data analytics and machine learning project to predict ad click behavior and identify engagement drivers. Combines feature engineering, trend analysis, and model optimization to support strategic ad placement decisions.
 
-•	Utilize Python for predictive and prescriptive analysis to generate actionable insights, optimize ad placement strategies, and improve return on investment.
+---
+
+## 📊 Data Preparation & Validation
+
+- Validated and prepared datasets by applying feature engineering techniques such as imputing missing values, outlier handling, feature segmentation, and date extraction.
+- Applied problem-solving skills to interpret diverse data sets and uncover meaningful patterns.
+
+---
+
+## 📈 Trend Analysis & Visualization
+
+- Analyzed user behavior trends and created line charts in Python to generate insights for business intelligence.
+- Extracted actionable patterns to support marketing decisions.
+
+---
+
+## 🤖 Machine Learning & Optimization
+
+- Developed classification models using **Logistic Regression**, **Decision Tree**, **Random Forest**, and **XGBoost**.
+- Applied **hyperparameter tuning** to improve model accuracy and identify key engagement drivers.
+- Conducted predictive and prescriptive analysis to optimize ad strategy and improve ROI.
